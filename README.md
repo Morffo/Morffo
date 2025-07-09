@@ -1,11 +1,11 @@
 # Morffo
 
 ## ✨ About me
-
+$${\color{red}Color }$$
 Student of <a href="https://english.mirea.ru">MIREA</a> - 🇷🇺 Russian Technological University 
-Yandex Lyceum Academy graduate
+<p>Yandex Lyceum Academy graduate</p>
 
-<p> <span color="indigo">Dream</span> -> <span>Plan</span> -> <span>Realisation</span></p>
+<p> <span color="red">Dream</span> -> <span>Plan</span> -> <span>Realisation</span></p>
 📍Moscow, Russia
 
 ## Tech Stack
