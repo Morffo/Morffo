@@ -1,7 +1,6 @@
 # Morffo
 
 ## ✨ About me
-$${\color{red}Color }$$
 Student of <a href="https://english.mirea.ru">MIREA</a> - 🇷🇺 Russian Technological University 
 <p>Yandex Lyceum Academy graduate</p>
 
